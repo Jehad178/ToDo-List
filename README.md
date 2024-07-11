@@ -19,11 +19,6 @@ The Todo List app is a web-based application that allows users to manage their d
 2. Open the `index.html` file in your web browser.
 3. Start managing your tasks!
 
-## Screenshots
-
-![Todo List Screenshot 1](screenshots/screenshot1.png)
-![Todo List Screenshot 2](screenshots/screenshot2.png)
-
 ## Technologies Used
 
 - HTML
